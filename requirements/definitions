@@ -1,0 +1,3 @@
+local runningProgram = shell.get
+local programName = fs.getName(runningProgram)
+CWD = runningProgram:sub(1, #runningProgram - #programName )

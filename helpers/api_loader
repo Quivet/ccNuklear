@@ -1,0 +1,12 @@
+--[[ A helper to load API's based on 
+https://www.computercraft.info/forums2/index.php?/topic/7431-osloadapi-add-to-a-variable-or-redirecting/ 
+]]--
+
+function load(api_location)
+	os.loadAPI(filepath)
+	return _G[fs.getName(filepath)]
+end
+
+function unload(api_location)
+	os.unloadAPI(filepath)
+end

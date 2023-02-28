@@ -20,6 +20,8 @@
 
 Attach a computer to a turbine vent and a fission logic control adaptor directly or via wired modem (don't forget to right-click the wired modem).
 
+Run the install script
+
 <h3>Contributing</h3>
 Keep it simple. Keep it minimal. Don't put every single feature just because you can.
 
